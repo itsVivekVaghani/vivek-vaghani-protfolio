@@ -202,7 +202,7 @@ const projects = [
   {
     name: "My Data My Consent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Transform the way you organize and share your data. Join millions of people and businesses and be empowered to experience the global right to data privacy. Decide what data you would like to share, with whom and for how long.",
     tags: [
       {
         name: "react",
@@ -218,12 +218,12 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/mydatamyconsent",
   },
   {
     name: "Songster App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Capture your photo and set your photo in your favorite songs.",
     tags: [
       {
         name: "react",
@@ -244,7 +244,7 @@ const projects = [
   {
     name: "Assam Pay",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This app same as money transfer and mobile recharge app but featurs are differents. App is show to your money transefer report and account reports and mobile recharge reports.",
     tags: [
       {
         name: "nextjs",
@@ -260,7 +260,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/itsVivekVaghani/g_pay_app",
   },
 ];
 
