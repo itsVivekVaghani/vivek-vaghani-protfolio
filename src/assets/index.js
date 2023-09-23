@@ -21,6 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import bigscal from "./company/bigscal.jpeg";
+import sajag from "./company/logo-surat.png";
 import mdmc from "./company/mdmc_payment_logo.png";
 import assampay from "./company/assam_pay.png";
 import freelancer from "./company/freelancer.png";
@@ -31,11 +32,14 @@ import tesla from "./company/tesla.png";
 
 
 import carrent from "./white.png";
+import sajagweb from "./sajag_web.png";
 import jobit from "./jobit.jpeg";
 import tripguide from "./tripguide.jpg";
 
 export {
   bigscal,
+  sajag,
+  sajagweb,
   mdmc,
   assampay,
   freelancer,
