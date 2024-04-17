@@ -22,6 +22,11 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import bigscal from "./company/bigscal.jpeg";
 import sajag from "./company/logo-surat.png";
+import propvision from "./company/provision_logo.png";
+import xtrain from "./company/xtrain_logo.png";
+import info365 from "./company/info_365_logo.png";
+import propmagnent from "./company/propmagnent_logo.png";
+import agprop from "./company/agprop_logo.png";
 import mdmc from "./company/mdmc_payment_logo.png";
 import assampay from "./company/assam_pay.png";
 import freelancer from "./company/freelancer.png";
@@ -36,11 +41,29 @@ import sajagweb from "./sajag_web.png";
 import jobit from "./jobit.jpeg";
 import tripguide from "./tripguide.jpg";
 
+import mdmcapp from "./mdmc_app.png";
+import assamPayBg from "./assam_apy_bg.png";
+import mdmcWebBg from "./mdmc_web_bg.png";
+import xijunaBg from "./xijuna_bg.png";
+import xtrainBg from "./xtrain_bg.png";
+import infoBg from "./info_bg.png";
+
 export {
   bigscal,
   sajag,
   sajagweb,
+  propmagnent,
+  propvision,
+  agprop,
+  xtrain,
+  info365,
   mdmc,
+  mdmcapp,
+  assamPayBg,
+  mdmcWebBg,
+  xijunaBg,
+  xtrainBg,
+  infoBg,
   assampay,
   freelancer,
   logo,
